@@ -1,0 +1,12 @@
+package ken;
+
+public class power{
+
+public static void main(){
+
+Systen.out.prinntln("Hello world running");
+
+
+}
+
+}
